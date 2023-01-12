@@ -2,9 +2,6 @@
 
 ![WhatsApp Image 2023-01-01 at 3 11 10 PM](https://user-images.githubusercontent.com/121748433/210170755-12b5a7db-31a4-4bcb-b559-c76832502309.jpeg)
 
-##
-Hi, I am vaibhav and solve DSA problems in java. I am solving kunal kushwaha's DSA sheet(which you can find in Leetcode problems folder). The codes that I submit on leetcode are in a single java project(per topic). I am too lazy to make seprate files for each question.
-Here is my leetcode profile - https://leetcode.com/vaiibhav75/
 
 ##
 This repository contains solutions to many data structure and algorithm problems which will help you in becomming good in problem solving skills 
